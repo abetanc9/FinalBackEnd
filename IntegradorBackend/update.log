@@ -1,0 +1,34 @@
+[2022-12-12 13:17:57] [ INFO ] [UsuarioService:25] Se busca un usuario con email: santibeta133@gmail.com
+[2022-12-12 13:20:17] [ INFO ] [UsuarioService:25] Se busca un usuario con email: damiancano1811@hotmail.com
+[2022-12-12 13:20:33] [ INFO ] [OdontologoService:23] se registro un odontologo con nombre: Andres Santiago
+[2022-12-12 13:20:50] [ INFO ] [OdontologoService:23] se registro un odontologo con nombre: donchimbo
+[2022-12-12 13:20:55] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-12 13:21:01] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 2
+[2022-12-12 13:21:10] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 2
+[2022-12-12 13:21:10] [ WARN ] [OdontologoService:33] Se actualizo el odontologo con iD: 2
+[2022-12-12 13:21:10] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-12 13:21:39] [ INFO ] [PacienteService:47] se busco el paciente con correo: santiago.betancur1@outlook.com
+[2022-12-12 13:21:39] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Andres Santiago
+[2022-12-12 13:22:16] [ INFO ] [PacienteService:47] se busco el paciente con correo: santibeta133@gmail.com
+[2022-12-12 13:22:16] [ INFO ] [PacienteService:24] se registro un paciente con nombre: Donperrron
+[2022-12-12 13:22:18] [ INFO ] [PacienteService:43] Se realizo la busqueda de todos los pacientes
+[2022-12-12 13:22:29] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 2
+[2022-12-12 13:22:33] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 2
+[2022-12-12 13:22:34] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-12 13:22:35] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 2
+[2022-12-12 13:22:36] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-12 13:22:50] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 2
+[2022-12-12 13:22:50] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-12 13:22:50] [ INFO ] [TurnoService:60] se registro un turno para el paciente con ID: 1
+[2022-12-12 13:22:59] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 1
+[2022-12-12 13:22:59] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 2
+[2022-12-12 13:22:59] [ INFO ] [TurnoService:60] se registro un turno para el paciente con ID: 2
+[2022-12-12 13:23:01] [ INFO ] [TurnoService:28] Se realizo la busqueda de todos los turnos
+[2022-12-12 13:23:36] [ INFO ] [TurnoService:40] Se busco un turno con ID: 1
+[2022-12-12 13:23:36] [ WARN ] [TurnoService:52] Se elimino el turno con iD: 1
+[2022-12-12 13:23:38] [ INFO ] [PacienteService:43] Se realizo la busqueda de todos los pacientes
+[2022-12-12 13:23:39] [ INFO ] [PacienteService:29] Se busco un paciente con ID: 1
+[2022-12-12 13:23:39] [ WARN ] [PacienteService:34] Se elimino el paciente con iD: 1
+[2022-12-12 13:23:42] [ INFO ] [OdontologoService:43] Se realizo la busqueda de todos los odontologos
+[2022-12-12 13:23:43] [ INFO ] [OdontologoService:28] Se busco un odontologo con ID: 1
+[2022-12-12 13:23:43] [ WARN ] [OdontologoService:38] Se elimino el odontologo con iD: 1
